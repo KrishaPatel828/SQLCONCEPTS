@@ -26,15 +26,11 @@ This repository is organized into different folders based on SQL topics:
    - Use `CASE` statements to introduce conditional logic into queries.
    - Scenarios include categorizing and labeling data based on specific criteria.
 
-6. **Data Cleaning**
-   - SQL techniques for identifying and cleaning messy or inconsistent data.
-   - Topics include handling `NULL` values, using `COALESCE`, and removing duplicate entries.
-
-7. **Window Functions**
+6. **Window Functions**
    - Examples of window functions like `ROW_NUMBER`, `RANK`, and `DENSE_RANK`.
    - Exercises include partitioning data and applying analytical functions for more advanced data insights.
 
-8. **Creating and Modifying Tables**
+7. **Creating and Modifying Tables**
    - Practice with `CREATE`, `ALTER`, and `DROP` commands to set up and modify database structures.
    - Exercises include creating tables, altering table structures, and specifying data types.
 
@@ -49,7 +45,3 @@ This repository serves as a record of my SQL learning journey, providing a found
 ### Future Plans
 
 I plan to continue expanding this repository as I progress, adding new topics and more complex exercises. My aim is to build a well-rounded portfolio of SQL skills that demonstrates my understanding and capability in data analysis.
-
----
-
-This README highlights the key SQL concepts without any external references, making it a clean and focused introduction to your SQL practice work.

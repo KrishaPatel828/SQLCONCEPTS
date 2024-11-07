@@ -1,9 +1,4 @@
 # SQLCONCEPTS
-Here’s a README focusing solely on the SQL concepts you’re practicing:
-
----
-
-# SQL Practice Repository
 
 Welcome to my SQL Practice Repository! This collection of SQL exercises focuses on essential concepts and skills for data analysis using SQL. The purpose of this repository is to reinforce my understanding of SQL through practice exercises and projects.
 
